@@ -184,3 +184,11 @@ button{
 .bottom {
 	border:1px solid red;
 }
+
+.bottom-middle{
+	display: inline-block;
+	border:1px solid red;
+	width: 22%;
+	margin: 2% 5%;
+
+}
