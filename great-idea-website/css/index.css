@@ -71,20 +71,13 @@ h1, h2, h3, h4, h5 {
 }
 
 .sectionFirst{
-	border: 1px solid red;
 	padding: 1% 0;
-	
-
 }
 
 nav{
-
 	display: inline-block;
-	/* width: 60%;
-	margin: 20px 0; */
-	/* width: 58%; */
-
 } 
+
 nav a{
 	
 	display:inline-block;
@@ -95,53 +88,14 @@ nav a{
 }
 
 .logo{
-
-	border: 1px solid red;
 	width: 20%;
 	margin-left:18%;
-	
-
-	/* margin: 0 14%; */
 }
 
-/* .sectionTwo{
-	border: 1px solid red;
-	display: inline-block;
-	width: 80%;
-}
-
-.one{
-	border:1px solid red;
-	display: inline-block;
-	width: 28%;
-	margin:12%;
-}
-
-h1 {
-	font-size: 550%;
-	text-align: center;
-}
-
-button{
-	margin-left: 28%;
-	border:1px solid red;
-	width: 47%;
-	font-size: 20px;
-}
-
-.circlePic{
-	border:1px solid red;
-	width: 28%;
-	margin-left: 70%;
-	margin-bottom: 50%;
-} */
 
 .sectionTwo{
-	border:1px solid red;
 	display:inline-block;
 	width: 100%;
-
-
 }
 
 .one{
@@ -166,7 +120,6 @@ button{
 .circlePic{
 	margin: -460px 55%;
 	width:45%;
-	
 }
 
 .middle{
@@ -175,10 +128,9 @@ button{
 }
 
 .top-middle{
-	border:1px solid red;
 	display: inline-block;
 	width: 39%;
-	margin:2% 5%;	
+	margin:5% 5%;	
 }
 
 .bottom {
@@ -188,8 +140,24 @@ button{
 
 .bottom-middle{
 	display: inline-block;
-	border:1px solid red;
 	width: 22%;
-	margin: 2% 5%;
+	margin: 5% 5%;
+}
 
+.middle-img {
+	margin: 0 5%;
+	width: 91%;
+}
+
+address {
+	margin: 0 12%;
+}
+
+.number{
+	padding:2% 0;
+}
+
+footer {
+	margin: 0 40%;
+	padding-top:2%; 
 }
