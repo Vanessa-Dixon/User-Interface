@@ -182,7 +182,8 @@ button{
 }
 
 .bottom {
-	border:1px solid red;
+	border-bottom:1px solid black;
+	margin: 2%;
 }
 
 .bottom-middle{
